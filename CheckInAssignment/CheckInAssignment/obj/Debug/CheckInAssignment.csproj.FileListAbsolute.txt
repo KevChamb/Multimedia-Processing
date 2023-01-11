@@ -1,0 +1,11 @@
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\bin\Debug\CheckInAssignment.exe.config
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\bin\Debug\CheckInAssignment.exe
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\bin\Debug\CheckInAssignment.pdb
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.csproj.AssemblyReference.cache
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.Form1.resources
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.Properties.Resources.resources
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.csproj.GenerateResource.cache
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.csproj.CoreCompileInputs.cache
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.exe
+C:\Users\7516246\Desktop\Class\MultiMedia\CheckInAssignment\CheckInAssignment\obj\Debug\CheckInAssignment.pdb
